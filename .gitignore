@@ -1,0 +1,5 @@
+# WorkBuddy internal files
+.workbuddy/
+
+# Old versions
+coxbyte-homepage.html
